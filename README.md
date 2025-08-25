@@ -1,4 +1,4 @@
-#Requirements:
+# Requirements:
 PHP 8.0+
 [With these extensions:]
 - pdo_sqlite
