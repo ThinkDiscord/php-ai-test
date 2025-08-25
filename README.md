@@ -1,3 +1,6 @@
+# -- php-ai-test
+- [x] [Copy Link (right click)](https://github.com/ThinkDiscord/php-ai-test)
+
 # Requirements:
 ## PHP 8.0+
 [With these extensions:]
